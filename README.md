@@ -1,4 +1,4 @@
-# Final-Project
+# University of Calgary Veternarian Application Prototype
 ### Authors: David Cooksley, Evan Cooksley, Khoi Nguyen
 
 ## Instructions
