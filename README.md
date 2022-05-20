@@ -2,7 +2,7 @@
 ### Authors: David Cooksley, Evan Cooksley, Khoi Nguyen
 
 ## Description
-A prototype animal management application for the University of Calgary Veternarian department. The application has a web-based front-end, which allows users to log in with different access levels, manage other users, manage animals, and view/edit animal profiles. The front-end is connected to a Java based server which connects to a SQL database. 
+A prototype animal management application for the University of Calgary Veterinarian department. The application has a web-based front-end, which allows users to log in with different access levels, manage other users, manage animals, and view/edit animal profiles. The front-end is connected to a Java based server which connects to a SQL database. 
 
 ## Instructions
 1. Run the SQL script to load the database: [vetapp.sql](https://github.com/Software-Engineering-Courses-Moshirpour/final-project-uofeng607-666/blob/main/database/vetapp.sql)  
