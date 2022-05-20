@@ -10,7 +10,3 @@
 6. Open command line in directory [frontend/vet-app](https://github.com/Software-Engineering-Courses-Moshirpour/final-project-uofeng607-666/tree/main/frontend/vet-app)
 7. Install required packages as listed in [package.json](https://github.com/Software-Engineering-Courses-Moshirpour/final-project-uofeng607-666/blob/main/frontend/vet-app/package.json)
 8. In the command line, run the command 'npm start'
-
-## Video Link
-Here is the link to our final presentation:
-https://youtu.be/4OhlanX_l-8
