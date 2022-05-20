@@ -1,0 +1,4 @@
+.table-container-scrollable {
+    overflow-y: scroll;
+    max-height: 500px;
+}
